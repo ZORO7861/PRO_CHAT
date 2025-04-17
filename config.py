@@ -47,4 +47,5 @@ EMOJIOS = [
     "🦑",
 ]
 
-MONGO_URL = ""
+MONGO_URL = "mongodb+srv://SUPERBOTS:PROOTAKU@cluster0.k1etl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+OWNER_ID = "8019277081"
