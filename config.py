@@ -4,6 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+API_ID = int(getenv("API_ID", "23012237"))
+API_HASH = getenv("API_HASH", "c90dc14145de6fe292d1f7034861993a")
+BOT_TOKEN = getenv("BOT_TOKEN", "7007221986:AAHX004OXGlHO00UcJzsa9GQywMfZkwLa4A")
+OWNER_ID = int(getenv("OWNER_ID", "8019277081"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://SUPERBOTS:PROOTAKU@cluster0.k1etl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+SUPPORT_GRP = getenv("SUPPORT_GRP","DEMON_X_SUPPORT")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "DEMON_X_SUPPORT")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Pro_otaku")
 
 # Random Start Images
 IMG = [
