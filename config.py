@@ -46,3 +46,5 @@ EMOJIOS = [
     "🐳",
     "🦑",
 ]
+
+MONGO_URL = "mongodb+srv://SUPERBOTS:PROOTAKU@cluster0.k1etl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
